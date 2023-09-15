@@ -15,10 +15,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "css-loader": "^6.8.1",
     "express": "^4.17.1",
     "idb": "^7.1.1",
     "if-env": "^1.0.4",
-    "mini-css-extract-plugin": "^2.7.6"
+    "mini-css-extract-plugin": "^2.7.6",
+    "style-loader": "^3.3.3"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
